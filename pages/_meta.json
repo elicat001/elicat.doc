@@ -1,7 +1,7 @@
 {
-  "index": "Introduction",
+  "Protocol Overview": "Introduction",
   "another": "Tokenomics/Toke",
-  "advanced": "Vision, Mission & Focus",
+  "Vision, Mission & Focus": "Vision, Mission & Focus",
   "about": {
     "title": "About",
     "type": "page"
