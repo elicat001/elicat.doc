@@ -1,15 +1,7 @@
 {
   "satori": "vision",
   "Tokenomics/Toke": "Mission",
-  "advanced": "Vision, Mission & Focus",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
+  "advanced": "Focus",
     "newWindow": true
   }
 }
