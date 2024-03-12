@@ -1,7 +1,7 @@
 {
-  "satori": "vision",
+  "Vision": "Vision",
   "Mission": "Mission",
-  "staori": "Focus",
+  "Focus": "Focus",
     "newWindow": true
   }
 }
